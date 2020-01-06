@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+*.rom
+
+*.opk
+
+*.dge
